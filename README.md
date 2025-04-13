@@ -14,4 +14,9 @@ CSS:  Aplicado para estilização, cores, layouts e visual atraente.<br>
 JavaScript​:  Utilizado para adicionar interatividade e comportamentos dinâmicos à interface.<br>
 Visual Studio Code:  Editor de código usado durante todo o processo de desenvolvimento, otimizando a organização e testes do projeto.</p>
 
-Este projeto foi uma excelente oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento front-end, combinando criatividade com tecnologia para oferecer uma experiência imersiva aos fãs do desenho.
+Este projeto foi uma excelente oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento front-end, combinando criatividade com tecnologia para oferecer uma experiência imersiva aos fãs do desenho.<br>
+
+## Fique avontade para Navegar neste meu Projeto.<br>
+<a Href="https://projetodragonball-z-marcelonaja.netlify.app/">
+
+
