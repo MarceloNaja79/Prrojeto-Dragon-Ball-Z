@@ -16,7 +16,8 @@ Visual Studio Code:  Editor de código usado durante todo o processo de desenvol
 
 Este projeto foi uma excelente oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento front-end, combinando criatividade com tecnologia para oferecer uma experiência imersiva aos fãs do desenho.<br>
 
-## Fique avontade para Navegar neste meu Projeto.<br>
-<a Href="https://projetodragonball-z-marcelonaja.netlify.app/">
+## Fique avontade para Navegar neste meu Projeto.
+
+<a href="https://projeto-dbz-marcelonaja.netlify.app/"></a>
 
 
