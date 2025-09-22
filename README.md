@@ -19,3 +19,7 @@ Este projeto foi uma excelente oportunidade para aplicar e aprimorar minhas habi
 <h3>Fique avontade para Navegar neste meu Projeto. <a href="https://projeto-dbz-marcelonaja.netlify.app/" target="_blank"/>Ir para o Site</h3>
 
 
+E-mail: marcelonaja41@gmail.com ✉️
+LinkedIn: www.linkedin.com/in/
+marcelo-dos-santos-moreira 🔗
+Telefone: +551299255-2089 📞
